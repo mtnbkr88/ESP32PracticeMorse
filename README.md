@@ -1,4 +1,4 @@
-# ESP32PracticeMorse
+# Practice Morse
 
 06/14/2023  Edward Williams  Practice Morse
  
